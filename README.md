@@ -1,3 +1,3 @@
 # MLH-January-Hackathon-2024
-Submission(s) for https://mlh-s-month-long-hackathon.devpost.com/ .
+Our teams' submission(s) for <a href="https://mlh-s-month-long-hackathon.devpost.com/">The MLH Januraury 2024 MLH.</a> .
 <hr>
